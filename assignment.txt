@@ -1,0 +1,89 @@
+Assignment number one
+
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+*        Mathematical operator (expressions )
+;hello;  String  (expressions )
+-87.8    integer
+-        Mathematical operator (expressions )
+/        Mathematical operator (expressions )
++	 Mathematical operator (expressions )
+
+6	its a value it can be change in to float
+
+
+2.What is the difference between string and variable?
+Strings 
+string is a data type 
+its immutable data type 
+string always close in to quotation marks single double and triple
+Variables:-
+variables can store multiple values
+its cant be start with reserve keywords
+its cant be start with specail character 
+its cant be start with white space
+
+3. Describe three different data types.
+data type diveded into two parts 
+a)Basic data types  (integer , flaot , complex)
+b)container data types (string , tuple , set , liat , dict)
+
+tuple:-
+tuples are ordered data type of collection 
+its immutable means that we cant change any thing in the tuples 
+its close in to the round brackets ()
+tuples(12,34,56,78,89,"irfan khan",(12+23j)
+
+list:-
+list is a container data type 
+its mutable data types
+its close by quare breackets []
+list=["irfan", 12,3,4,34,56,7899,[12,45,7,],34,56,(25,67,89,)]
+
+set:-
+set is the collection of unique value of data 
+ita mutable 
+close into the {}
+set={"irfan khan" , 23,45,67,89,76,44,243}
+
+
+4.)What is an expression made up of? What do all expressions do?
+
+An expression in Python is a combination of operators and operands. 
+
+5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+
+An expression evaluates to a single value. and the statement evaluets more then one values .
+
+
+
+
+6.) 6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+ans. its would be 23 because both are integer
+
+7. What should the values of the following two terms be?
+'spam'+spamspam
+
+'spam'*3
+
+ans.= spamspamspam
+
+8. Why is eggs a valid variable name while 100 is invalid?
+
+100 is a ineteger data type we cant take it as a variable 
+eggs we can make a variable
+
+
+9. What three functions can be used to get the integer, floating-point number, or string
+version of a value?
+
+int(), flaot() , and str(),
+
+10. Why does this expression cause an error? How can you fix it?
+'i have eacten' , +99+'burritos'
+ans its will give you error because two are strings and 99 is interger so we cant add these values
+
+
